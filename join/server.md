@@ -1,13 +1,10 @@
 # 加入服务器
 
-## **加入条件**
-
-* 详见[规则](https://book.sdcraft.fun/rule)
-
 ## 初步了解 <a id="chu-bu-le-jie"></a>
 
-1. 前往浏览本服[内容限制](https://wiki.originmc.xyz/ji-ben/fu-wu-qi-xin-xi/nei-rong-xian-zhi)。
-2. 前往认真阅读本服[规章制度](https://wiki.originmc.xyz/ji-ben/fu-wu-qi-xin-xi/gui-zhang-zhi-du)。
+前往认真阅读本服规则。
+
+{% page-ref page="../basis/rule.md" %}
 
 ## 开始申请 <a id="kai-shi-shen-qing"></a>
 
@@ -17,5 +14,9 @@
 
 ## 正式加入 <a id="zheng-shi-jia-ru"></a>
 
-若收到回应表示申请成功，你便可以加入小木镐OriginMC服务器了。前往查阅[服务器信息](https://wiki.originmc.xyz/ji-ben/fu-wu-qi-xin-xi)以了解服务器版本及连接地址。
+若申请成功，你便可以加入沙雕生存服务器了。前往查阅以了解服务器版本及连接地址。
+
+{% page-ref page="../basis/info.md" %}
+
+
 
