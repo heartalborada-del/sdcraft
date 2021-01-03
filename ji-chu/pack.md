@@ -4,11 +4,11 @@
 
 #### 启动器截图
 
-![](.gitbook/assets/pcl2.png)
+![](../.gitbook/assets/pcl2.png)
 
 #### mod截图
 
-![](.gitbook/assets/mod.png)
+![](../.gitbook/assets/mod.png)
 
 #### 下载
 
