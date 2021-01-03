@@ -4,6 +4,7 @@
 
 ## 指南 <a id="guidebook"></a>
 
+* [安装JAVA](guidebook/setup_java.md)
 * [整合包](guidebook/pack.md)
 * [材质包](guidebook/resourcepacks.md)
 
