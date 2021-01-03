@@ -1,7 +1,3 @@
----
-description: rule
----
-
 # 规则
 
 ## 服务器规则

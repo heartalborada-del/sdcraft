@@ -1,7 +1,3 @@
----
-description: help
----
-
 # 帮助
 
 ## 命令帮助
