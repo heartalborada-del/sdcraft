@@ -16,9 +16,7 @@ description: Pack
 
 #### 下载
 
- \[戳我下载\]\([https://pan.baidu.com/s/1QfozyRdOU7UP\_U7xYUnb4g](https://pan.baidu.com/s/1QfozyRdOU7UP_U7xYUnb4g)\)  
-
-{% page-ref page="pack.md" %}
+ [戳我下载](https://pan.baidu.com/s/1QfozyRdOU7UP_U7xYUnb4g)       提取码:链接:woks
 
 ## 材质包推荐
 
